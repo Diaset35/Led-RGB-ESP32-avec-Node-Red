@@ -12,13 +12,16 @@ cliquer sur la photo pour voir la video
 
 # Photo du montage
 
-![previewclignotant](previewclignotant.jpg)
+![rgb](led rgb.jpg)
 
 # Bibliothèque a utiliser
 
 include <Adafruit_MQTT.h>
+
 include <Adafruit_MQTT_Client.h>
+
 include <WiFi.h>
+
 include <analogWrite.h>
 
 # Liste des composants
