@@ -10,7 +10,7 @@ Allumer à distance une led rgb en choisissant la couleur via l'interface Node R
 cliquer sur la photo pour voir la video
 
 
-# Photo du montage
+# Schema du montage
 
 ![rgb](rgb.jpg)
 
