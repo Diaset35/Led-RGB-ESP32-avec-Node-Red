@@ -12,7 +12,7 @@ cliquer sur la photo pour voir la video
 
 # Photo du montage
 
-![rgb](led rgb.jpg)
+![rgb](rgb.jpg)
 
 # Bibliothèque a utiliser
 
